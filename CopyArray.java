@@ -1,3 +1,5 @@
+//Write a Java program to copy an array by iterating the array.
+
 public class CopyArray {
     public static void main(String[] args) {
         // Define and initialize the original array
